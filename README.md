@@ -96,7 +96,7 @@ Contributions, suggestions, and improvements are welcome. Feel free to open an I
 
 ## 🔗 Author
 
-**Md Jahid Hasan Antor**
+**Jahid Hasan**
 [LinkedIn](https://www.linkedin.com/in/jahid-hasan-antor) | [GitHub](https://github.com/AntorDOS)
 
 
