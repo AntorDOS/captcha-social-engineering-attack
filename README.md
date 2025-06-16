@@ -1,6 +1,9 @@
 # CAPTCHA Social Engineering Attack – A Silent Threat You Should Know About
 
-![CAPTCHA Attack Banner](https://example.com/captcha-attack-banner.png) <!-- Optional GitHub Banner Image URL -->
+<!-- Optional GitHub Banner Image URL -->
+
+![captcha social engineering](https://github.com/user-attachments/assets/bd9416a2-6672-4344-bf6c-eb65180158cc)
+
 
 ## 📖 Overview
 
