@@ -1,4 +1,4 @@
-# CAPTCHA Social Engineering Attack – A Silent Threat You Should Know About.
+# CAPTCHA Social Engineering Attack – A Silent Threat You Should Know About
 
 <!-- Optional GitHub Banner Image URL -->
 
